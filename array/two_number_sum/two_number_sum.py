@@ -1,4 +1,4 @@
-def two_number_sum(array, target_sum):
+def two_number_sum(array: list, target_sum: int) -> list:
     # Two pointer approach
     array.sort()
     left_idx, right_idx = 0, len(array) - 1
