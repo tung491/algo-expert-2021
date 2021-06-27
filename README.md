@@ -26,3 +26,4 @@ My algoexpert submission
 - [Minimum Waiting Time](greedy_algo/minimum_waiting_time)
 - [Tandem Bicycle](greedy_algo/tandem_bicycle)
 - [Task Assignment](greedy_algo/task_assignment)
+- [Valid Starting City](greedy_algo/valid_starting_city/valid_starting_city.py)
