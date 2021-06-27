@@ -18,7 +18,7 @@ My algoexpert submission
 - [Smallest difference](array/smallest_difference)
 - [Spiral Traverse](array/spiral_traverse)
 - [Three Number Sum](array/three_number_sum)
-
+- [Merge Overlapping Intervals](array/merge_overlapping_intervals)
 
 ## Greedy Algorithm
 
