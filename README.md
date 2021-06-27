@@ -20,6 +20,7 @@ My algoexpert submission
 - [Three Number Sum](array/three_number_sum)
 - [Merge Overlapping Intervals](array/merge_overlapping_intervals)
 - [Four Number Sum](array/four_number_sum)
+- [Subarray Sort](array/sub_array_sort)
 
 ## Greedy Algorithm
 
