@@ -25,3 +25,4 @@ My algoexpert submission
 - [Class Photos](greedy_algo/class_photos)
 - [Minimum Waiting Time](greedy_algo/minimum_waiting_time)
 - [Tandem Bicycle](greedy_algo/tandem_bicycle)
+- [Task Assignment](greedy_algo/task_assignment)
