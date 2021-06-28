@@ -22,6 +22,7 @@ My algoexpert submission
 - [Four Number Sum](array/four_number_sum)
 - [Subarray Sort](array/sub_array_sort)
 - [Largest Range](array/largest_range)
+- [Min Rewards](array/min_rewards)
 
 ## Greedy Algorithm
 
