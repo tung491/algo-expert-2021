@@ -23,6 +23,7 @@ My algoexpert submission
 - [Subarray Sort](array/sub_array_sort)
 - [Largest Range](array/largest_range)
 - [Min Rewards](array/min_rewards)
+- [Zigzag Traversal](array/zigzag_traversal)
 
 ## Greedy Algorithm
 
