@@ -32,3 +32,8 @@ My algoexpert submission
 - [Tandem Bicycle](greedy_algo/tandem_bicycle)
 - [Task Assignment](greedy_algo/task_assignment)
 - [Valid Starting City](greedy_algo/valid_starting_city/valid_starting_city.py)
+
+
+## Recursion
+
+- [Nth Fibonacci](recursion/nth_fibonacci)
