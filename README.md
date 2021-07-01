@@ -37,3 +37,5 @@ My algoexpert submission
 ## Recursion
 
 - [Nth Fibonacci](recursion/nth_fibonacci)
+- [Product Sum](recursion/product_sum)
+- [Permutations](recursion/permutations)
