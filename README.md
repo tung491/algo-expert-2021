@@ -40,3 +40,4 @@ My algoexpert submission
 - [Product Sum](recursion/product_sum)
 - [Permutations](recursion/permutations)
 - [Power set](recursion/power_set)
+- [Phone number Mnemonics](recursion/phone_number_mnemonics)
