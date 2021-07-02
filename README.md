@@ -39,3 +39,4 @@ My algoexpert submission
 - [Nth Fibonacci](recursion/nth_fibonacci)
 - [Product Sum](recursion/product_sum)
 - [Permutations](recursion/permutations)
+- [Power set](recursion/power_set)
