@@ -41,3 +41,12 @@ My algoexpert submission
 - [Permutations](recursion/permutations)
 - [Power set](recursion/power_set)
 - [Phone number Mnemonics](recursion/phone_number_mnemonics)
+
+
+## Searching
+- [Binary Search](searching/binary_search)
+- [Find Three Largest Numbers](searching/find_three_largest_numbers)
+- [Search for Range](searching/search_for_range)
+- [Search In Sorted Matrix](searching/search_in_sorted_matrix)
+- [Shifted Binary Search](searching/shifted_binary_search)
+- [Index Equals Value](searching/index_equal_value)
